@@ -1,0 +1,71 @@
+
+
+//Questão 2: Requisitos funcionais de acordo com a IA:
+
+Requisitos Funcionais do Sistema de Gerenciamento de Doações
+
+    1. Receber Doações:
+        RF1.1: O sistema deve apresentar uma interface de usuário para que doadores possam registrar doações.
+        RF1.2: A interface deve permitir a coleta das seguintes informações:
+        Tipo de doação (opções pré-definidas ou campo livre).
+        Quantidade da doação (valor numérico válido).
+        Data da doação (campo de data ou formato de entrada intuitivo).
+        RF1.3: O sistema deve validar as informações de entrada (tipo, quantidade e data) para garantir a qualidade dos dados.
+        RF1.4: O sistema deve registrar cada doação com sucesso, exibindo uma mensagem de confirmação para o doador.
+
+    2. Calcular Total de Doações:
+        RF2.1: O sistema deve possuir uma função para calcular o total de todas as doações recebidas.
+        RF2.2: A função deve considerar todas as doações registradas, independentemente do tipo ou data.
+        RF2.3: O total de doações deve ser apresentado em uma interface clara e acessível, facilitando a visualização para os usuários.
+        RF2.4: O sistema deve permitir que o total de doações seja recalculado a qualquer momento, atualizando a informação na interface.
+
+    3. Armazenar Informações de Doações:
+        RF3.1: O sistema deve armazenar as informações de cada doação de forma segura e persistente.
+        RF3.2: As opções de armazenamento incluem:
+        Banco de dados (relacional ou não relacional).
+        Arquivo texto (formato estruturado e seguro).
+        RF3.3: O sistema deve garantir a integridade dos dados armazenados, protegendo-os contra perda ou corrupção.
+        RF3.4: O sistema deve permitir a consulta e recuperação das informações de doações armazenadas.
+        Opções de consulta: por tipo, data, período, doador, etc.
+        Exportação de dados em formatos legíveis (CSV, Excel, etc.).
+
+    4. Interface do Usuário:
+        RF4.1: O sistema deve apresentar uma interface amigável e intuitiva para os usuários.
+        RF4.2: A interface deve ser acessível a doadores, administradores e demais usuários autorizados.
+        RF4.3: As telas e menus devem ser claros e organizados, facilitando a navegação e a interação com o sistema.
+        RF4.4: O sistema deve fornecer instruções e mensagens de ajuda para auxiliar os usuários em suas ações.
+
+    5. Segurança:
+        RF5.1: O sistema deve implementar medidas de segurança para proteger as informações de doadores e da organização.
+        RF5.2: O acesso ao sistema deve ser controlado por autenticação de usuários (login e senha).
+        RF5.3: As informações de doações devem ser armazenadas de forma criptografada, se necessário.
+        RF5.4: O sistema deve registrar e monitorar acessos, atividades e alterações realizadas pelos usuários.
+
+    6. Relatórios:
+        RF6.1: O sistema deve permitir a geração de relatórios sobre as doações recebidas.
+        RF6.2: Os relatórios devem ser personalizáveis, permitindo a seleção de filtros e critérios de análise.
+        RF6.3: As opções de relatórios podem incluir:
+        Total de doações por tipo, período, doador, etc.
+        Detalhamento de cada doação (tipo, quantidade, data, doador).
+        Evolução das doações ao longo do tempo.
+        RF6.4: Os relatórios podem ser gerados em diferentes formatos (PDF, CSV, Excel, etc.).
+
+    7. Integração com IA Generativa:
+        RF7.1: O sistema deve explorar a integração com ferramentas de IA generativa para auxiliar em tarefas como:
+        Geração de relatórios personalizados e intuitivos.
+        Criação de conteúdo informativo e educativo sobre doações e causas sociais.
+        Análise de dados e identificação de padrões nas doações recebidas.
+        RF7.2: A integração com IA generativa deve ser opcional e não afetar o funcionamento básico do sistema.
+        RF7.3: A documentação do sistema deve incluir informações sobre as possibilidades de integração com IA generativa.
+
+
+
+//Questão 3: 
+
+Embora existam vários benefícios da IA, ela também pode ajudar a encontrar os componentes funcionais necessários para um sistema de gerenciamento de doações.
+
+Algunos dos benefícios incluem a identificação rápida de requisitos implícitos, garantia de consistência e agilidade na análise de dados.
+
+Os problemas incluem falta de capacidade de criar novas ideias, falta de compreensão do contexto e viés nos resultados.
+
+Apesar de ser uma ferramenta útil, a IA não é uma alternativa para o julgamento humano. Use dados de alta qualidade, participe da comunidade e revise os resultados da IA.
