@@ -23,13 +23,6 @@ public class Doacao {
         return data;
     }
 
-    Doacao doacao = Doacao.builder()
-    .tipo("Dinheiro")
-    .quantidade(100.0)
-    .data(LocalDate.now())
-    .build();
-
-
     @Override
     public String toString() {
         return "Doacao{" +
